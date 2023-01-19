@@ -11,7 +11,7 @@ Django
 ## Installing
 #### Clone the repository to your local machine:
 ```python
-git clone https://github.com/your-username/django-url-shortener.git
+git clone https://github.com/zanehirning/django-urlshortener.git
 ```
 #### Install the required packages:
 ```python
