@@ -32,7 +32,7 @@ Input the long URL you wish to shorten in the form field.
 Click the "Shorten" button.
 The shortened URL will be displayed on the page. You can now share this shortened URL with others.
 ## Built With
-Django - The web framework used
+Django - The web framework used |
 Python - Programming language
 ## Authors
 Zane Hirning - Initial work - https://github.com/zanehirning
